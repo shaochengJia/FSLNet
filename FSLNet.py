@@ -57,7 +57,6 @@ class WaveTransform(nn.Module):
         self.multiheads = nn.Conv2d(in_channel, out_channel, 1, bias=False, groups=1)
 
     def forward(self, x):
-        #x = x * self.weights #linear learning
         x = self.multiheads(x)
         return x
     
@@ -110,7 +109,6 @@ class FLBlock(nn.Module):
                 CNNBlock(out_channels//2, out_channels//2),
                 CNNBlock(out_channels//2, out_channels//2),
                 CNNBlock(out_channels//2, out_channels//2),
-                #CNNBlock(out_channels//2, out_channels//2)
             )
             
         if in_channels//2 > predim and out_channels//2 <= predim:
@@ -120,7 +118,6 @@ class FLBlock(nn.Module):
                 CNNBlock(out_channels//2, out_channels//2),
                 CNNBlock(out_channels//2, out_channels//2),
                 CNNBlock(out_channels//2, out_channels//2),
-                #CNNBlock(out_channels//2, out_channels//2)
             )  
             
         if in_channels//2 > predim and out_channels//2 > predim:
