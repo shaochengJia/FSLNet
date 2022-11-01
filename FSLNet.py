@@ -3,10 +3,8 @@ import numpy as np
 import torch
 import torch.nn as nn
 from collections import OrderedDict
-#from layers import *
 import torchvision.models as models
 import torch.utils.model_zoo as model_zoo
-#from linformer import Linformer
 from einops import rearrange, repeat
 from timm.models.layers import trunc_normal_
 import torch.nn.functional as F
