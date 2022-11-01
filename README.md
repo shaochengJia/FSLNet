@@ -3,3 +3,4 @@ Pytorch implementation of FSLNet proposed in paper "Joint Learning of Frequency 
 
 Please refer to Monodepth2 for detailed evaluation and training (https://github.com/nianticlabs/monodepth2).
 
+Remark: Pytorch 1.9.1 was used for this implementation.
