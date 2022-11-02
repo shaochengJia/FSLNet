@@ -21,7 +21,7 @@ tensorboardX        2.4
 torch               1.9.1  
 
 # Quick start
-Please refer to test.ipynb to quickly test the models.
+Please refer to [test.ipynb](./test.ipynb) to quickly test the models.
 
 # Evaluation and training
 Please refer to [Monodepth2](https://github.com/nianticlabs/monodepth2) for detailed evaluation and training.
