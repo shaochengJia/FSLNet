@@ -4,6 +4,10 @@ Pytorch implementation of FSLNet proposed in paper "Joint Learning of Frequency 
 # Overview
 ![graphicalabstract](https://user-images.githubusercontent.com/48814384/199497474-e9a0e1be-bf02-4ae2-bf77-77e2cbcfc9aa.jpg)
 
+# Results
+![image](https://user-images.githubusercontent.com/48814384/199512209-bcc6ac01-a7af-496d-b8b7-09bac826ea7e.png)  
+![image](https://user-images.githubusercontent.com/48814384/199512420-edb46f75-4f4b-4b4a-8999-94e6078082be.png)
+
 # Requirements 
 imageio             2.9.0   
 importlib-metadata  4.8.1  
