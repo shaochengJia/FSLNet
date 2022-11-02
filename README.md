@@ -27,7 +27,7 @@ Please refer to [test.ipynb](./test.ipynb) to quickly test the models.
 Please refer to [Monodepth2](https://github.com/nianticlabs/monodepth2) for detailed evaluation and training.
 
 # Weights
-Please find the weights trained on the [KITTI dataset](https://www.cvlibs.net/datasets/kitti/) in Weights folder.
+Please find the weights trained on the [KITTI dataset](https://www.cvlibs.net/datasets/kitti/) in [Weights](./Weights) folder.
 
 # Citation
 @article{jia2022joint,  
