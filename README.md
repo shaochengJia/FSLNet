@@ -1,5 +1,5 @@
 # FSLNet
-Pytorch implementation of FSLNet proposed in paper "Joint Learning of Frequency and Spatial Domains for Dense Image Prediction" by Shaocheng JIA and Wei YAO [Arxiv](https://arxiv.org/abs/2202.08991).
+Pytorch implementation of FSLNet proposed in paper "Joint Learning of Frequency and Spatial Domains for Dense Image Prediction" by Shaocheng JIA and Wei YAO [Article](https://www.sciencedirect.com/science/article/abs/pii/S092427162200288X?via%3Dihub).
 
 # Overview
 ![graphicalabstract](https://user-images.githubusercontent.com/48814384/199497474-e9a0e1be-bf02-4ae2-bf77-77e2cbcfc9aa.jpg)
