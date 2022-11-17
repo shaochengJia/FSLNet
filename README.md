@@ -34,20 +34,14 @@ Please refer to [Monodepth2](https://github.com/nianticlabs/monodepth2) for deta
 Please find the weights trained on the [KITTI dataset](https://www.cvlibs.net/datasets/kitti/) in [weights](./weights) folder.
 
 # Citation
-@article{jia2022joint,  
+@article{jia2023joint,  
    title={Joint Learning of Frequency and Spatial Domains for Dense Image Prediction},  
    author={Jia, Shaocheng and Yao, Wei},  
    journal={ISPRS Journal of Photogrammetry and Remote Sensing},  
-   volume={-},  
-   pages={-},  
-   year={2022},  
+   volume={195},  
+   pages={14-28},  
+   year={2023},  
    publisher={Elsevier}  
 }  
-or  
-@article{jia2022joint,  
-  title={Joint Learning of Frequency and Spatial Domains for Dense Predictions},  
-  author={Jia, Shaocheng and Yao, Wei},  
-  journal={arXiv preprint arXiv:2202.08991},  
-  year={2022}  
-}  
+ 
 
