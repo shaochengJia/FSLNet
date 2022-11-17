@@ -41,7 +41,7 @@ Please find the weights trained on the [KITTI dataset](https://www.cvlibs.net/da
    volume={195},  
    pages={14-28},  
    year={2023}, 
-   issn = {0924-2716},
+   issn = {0924-2716},  
    publisher={Elsevier}  
 }  
 
